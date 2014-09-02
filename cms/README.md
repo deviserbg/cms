@@ -1,0 +1,5 @@
+cms
+===
+
+Simple CakePHP CMS
+
